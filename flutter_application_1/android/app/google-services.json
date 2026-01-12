@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "894461567350",
+    "project_id": "flutter-c4365",
+    "storage_bucket": "flutter-c4365.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894461567350:android:c4b3e4c6c472e582599a57",
+        "android_client_info": {
+          "package_name": "com.example.animations"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7MiZcNvu6IByW9WM94awokEVZgN9t97o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894461567350:android:a9b7ece5088a428a599a57",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7MiZcNvu6IByW9WM94awokEVZgN9t97o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
